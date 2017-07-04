@@ -1,0 +1,1 @@
+import React from "react"class Loader extends React.Component{    constructor(props){        super(props);            }        render(){        return(            <span className="spinner"></span>        )    }}export default Loader;
